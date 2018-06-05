@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>菜鸟教程(runoob.com)</title>
+<title>表单php验证</title>
 <style>
 .error {color: #FF0000;}
 .left{text-align:right}
